@@ -1,0 +1,49 @@
+ CoShREM Toolbox Copying Permissions
+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+
+This package was written by Rafael Reisenhofer, Universität Bremen
+
+Copyright 2016, Rafael Reisenhofer, Universit?t Bremen
+
+                        All Rights Reserved
+
+
+The method
+
+- yapuls (in Util)
+
+is taken from Yet Another Wavelet Toolbox (YAWTb), which can be downloaded from http://sites.uclouvain.be/ispgroup/yawtb/.
+
+The method
+
+- hsl2rgb (in Util)
+
+was written by Vladimir Bychkovsky and downloaded from http://de.mathworks.com/matlabcentral/fileexchange/20292-hsl2rgb-and-rgb2hsl-conversion.
+
+
+The methods
+
+- SLdshear (in Continuous Shearlet Transform)
+- SLpadArray (in Continuous Shearlet Transform)
+
+are taken from ShearLab 3D [1], which can be downloaded from http://www.shearlab.org/.
+
+The files
+
+- K05_CH_full.txt
+- K05_OH_full.txt
+- B0.png
+
+were kindly provided by Johannes Kiefer.
+
+[1] G. Kutyniok, W.-Q Lim, and R. Reisenhofer; ShearLab 3D: Faithful Digital Shearlet Transforms Based on Compactly Supported Shearlets"; ACM Transactions of Mathematical Software 42, no. 1.

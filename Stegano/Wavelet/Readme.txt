@@ -1,4 +1,3 @@
 LSB contains how to use the LSB method;
-Audios et 2D contient la méthode pour avoir un spectre multifractal en 2D en donnant des coefficients au départ
-
-Also you have to use the Wavelet toolbox in mattlab to get it work
+Audios an 2D contain a method to have a multifractal spectrum in 2D by giving coefficients at the beginning
+Also you have to use the Wavelet toolbox in matlab
